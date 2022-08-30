@@ -1,1 +1,1 @@
-This repository is for practicing git
+My first readme
